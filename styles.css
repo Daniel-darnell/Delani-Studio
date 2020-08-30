@@ -55,6 +55,10 @@ body {
     text-align: center;
     color: white;
 }
+#WhatWeDo {
+    background: white;
+    height: 30vh;
+}
 #WhatWeDo h1 {
     text-align: center;
 }
