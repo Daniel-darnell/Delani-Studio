@@ -83,3 +83,14 @@ body {
 #ContactUs h1 {
     text-align: center;
 }
+#footer {
+    background: white;
+    height: 30vh;
+}
+#footer .container {
+    padding: 60px;
+    text-align: center;
+}
+#footer p {
+    text-align: center;
+}
