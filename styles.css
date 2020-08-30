@@ -48,5 +48,10 @@ body {
 }
 #Services h1 {
     text-align: center;
-    padding: 50px;
+    padding: 80px;
+    color: white;
+}
+#Services p {
+    text-align: center;
+    color: white;
 }
