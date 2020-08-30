@@ -32,7 +32,7 @@ body {
 }
 #About {
     background: white;
-    height: 20vh;
+    height: 30vh;
 }
 #About h1 {
     text-align: center;
@@ -66,4 +66,11 @@ body {
 #WhatWeDo .WWDicons {
     display: inline-block;
     margin-inline: 30px;
+}
+#Portfolio {
+    background: white;
+    height: 30vh;
+}
+#Portfolio h1 {
+    text-align: center;
 }
