@@ -57,20 +57,28 @@ body {
 }
 #WhatWeDo {
     background: white;
-    height: 30vh;
+    height: 20vh;
 }
 #WhatWeDo h1 {
     text-align: center;
-    padding: 30px;
-}
-#WhatWeDo .WWDicons {
-    display: inline-block;
-    margin-inline: 30px;
+    padding: 10px;
+    padding-right: 10px;
 }
 #Portfolio {
     background: white;
-    height: 30vh;
+    text-align: center;
 }
-#Portfolio h1 {
+#Portfolio .row {
+    padding: 2.5%;
+}
+
+
+#ContactUs {
+    background: url('/IP3/assets/backgrounds/c_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+}
+#ContactUs h1 {
     text-align: center;
 }
