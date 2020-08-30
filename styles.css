@@ -58,6 +58,7 @@ body {
 #WhatWeDo {
     background: white;
     height: 20vh;
+    text-align: center;
 }
 #WhatWeDo h1 {
     text-align: center;
@@ -67,18 +68,10 @@ body {
 #Portfolio {
     background: white;
     text-align: center;
+    padding: 30px;
 }
 #Portfolio .row {
-    padding: 2.5%;
+    padding: 1.5%;
 }
 
 
-#ContactUs {
-    background: url('/IP3/assets/backgrounds/c_image.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 50vh;
-}
-#ContactUs h1 {
-    text-align: center;
-}
