@@ -46,7 +46,7 @@ body {
     padding: 10;
 }
 #Services {
-    background: url('../assets/backgrounds/s_image.jpg');
+    background: url('./assets/backgrounds/s_image.jpg');
     height: 30vh;
 }
 #Services h1 {
@@ -80,7 +80,7 @@ body {
     margin-right: auto;
 }
 #ContactUs {
-    background: url('../assets/backgrounds/c_image.jpg');
+    background: url('./assets/backgrounds/c_image.jpg');
     height: 40vh;
 }
 #ContactUs h1 {
