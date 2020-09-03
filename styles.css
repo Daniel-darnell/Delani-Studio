@@ -43,7 +43,7 @@ body {
     padding: 10;
 }
 #Services {
-    background: url('/IP3/assets/backgrounds/s_image.jpg');
+    background: url('../IP3/assets/backgrounds/s_image.jpg');
     height: 30vh;
 }
 #Services h1 {
@@ -77,7 +77,7 @@ body {
     margin-right: auto;
 }
 #ContactUs {
-    background: url('IP3/assets/backgrounds/c_image.jpg');
+    background: url('../IP3/assets/backgrounds/c_image.jpg');
     height: 40vh;
 }
 #ContactUs h1 {
