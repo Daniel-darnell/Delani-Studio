@@ -79,6 +79,9 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+.portfoliocontainer-fluid {
+    background: white;
+}
 
 textarea,
 input {
