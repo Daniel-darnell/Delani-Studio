@@ -2,9 +2,12 @@
 <html>
 
 <head>
-    <title>DELANI STUDIO</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdnjs.cloudfare.com/ajax/libs/mdbootsrap/4.8.10/css/mdb.min.css" rel="stylesheet">
     <link href="styles.css" rel="stylesheet" type="text/css">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+    <title>DELANI STUDIO</title>
 </head>
 
 <body>
@@ -70,14 +73,17 @@
             <div class="col-md-3"><img src="./assets/portfolio/work8.jpg"></div>
         </div>
     </section>
-    <section id="ContactUs">
-        <h1>CONTACT US</h1>
+
+    <div class="contact" id="contact">
+        <h1 class="text-center">CONTACT US</h1>
         <div class="col-md-12">
             <form>
                 <div class="row">
                     <div class="col-md-2"></div>
-                    <input type="text" class="col-md-4 form-control name" name="name" placeholder="NAME..." required>
-                    <input type="email" class="col-md-4 form-control email" name="email" placeholder="EMAIL.." required>
+                    <input type="text" class="col-md-4 form-control name" name="name" placeholder="NAME..." 
+                        required> &nbsp; &nbsp;
+                    <input type="email" class="col-md-4 form-control email" name="email" placeholder="EMAIL..."
+                        required>    
                 </div>
                 <br>
 
@@ -85,11 +91,12 @@
                     <div class="col-md-2"></div>
                     <textarea class="form-control col-md-8 text" name="message" id="message" rows="12"></textarea>
                     <div class="col-md-2"></div>
-                </div>
+                </div><br>
                 <button class="btn btn-success mx-auto d-block submit" type="submit">Submit</button>
-            </form><br><br><br>
+            </form><br<br>>
         </div>
-    </section>
+    </div>
+
     <footer id="footer">
         <div class="container">
             <img src="./assets/social_icons/twitter.png">
@@ -105,6 +112,8 @@
         <p>DELANI STUDIO</p>
         <p>2019</p>
     </footer>
+    <script src="js/jquery-3.5.1.js"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
