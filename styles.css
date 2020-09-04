@@ -11,7 +11,7 @@ body {
     background-image: url('./assets/backgrounds/h_img.jpg');
     background-size: cover;
     background-position: center;
-    height: 90vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -60,7 +60,7 @@ body {
 }
 #WhatWeDo {
     background: white;
-    height: 30vh;
+    height: 20vh;
     text-align: center;
 }
 #WhatWeDo h1 {
@@ -71,8 +71,10 @@ body {
 .portfolio {
     background: white;
     text-align: center;
-    padding-left: auto;
-    padding-right: auto;
+    padding: 60px;
+}
+.portfolio h1 {
+    padding: 10px;
 }
 #Portfolio {
     background: white;
@@ -94,6 +96,9 @@ input {
 .contact {
     background: url('./assets/backgrounds/c_image.jpg');
 }
+.contact h1 {
+    padding: 15px;
+}
 
 #footer {
     background: white;
@@ -105,8 +110,4 @@ input {
 }
 #footer p {
     text-align: center;
-}
-.container.fluid {
-    margin: 0;
-    padding: 0;
 }

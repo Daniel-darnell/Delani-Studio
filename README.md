@@ -8,5 +8,11 @@ Our team take the necessary time needed to understand client's product vision an
 # AUTHOR
 Daniel Darnell Wanina
 
+# Technologies Used
+Javascript
+CSS
+HTML
+
+### DELANI STUDIO 2020 ALL RIGHTS & COPY RESERVED
 
 
